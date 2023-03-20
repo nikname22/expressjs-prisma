@@ -16,4 +16,5 @@ model documents {
   description      String
   level Int
   title String
+  category String
 }
